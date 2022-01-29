@@ -1,12 +1,7 @@
-cs50 ide link: 
-https://ide.cs50.io/d789c33e52cf4661a8c83e8147c55cbb
-
-This is the link for cs50ide. 
 
 Access the "wdc project" folder inside wdc repository. 
 
 test.html is our main file (login page), which is in public folder. That is where you start. 
-our group is UG Group 85.
 
 Before logging in, select the account type.
 
