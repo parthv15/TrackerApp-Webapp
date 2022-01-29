@@ -1,5 +1,5 @@
 
-Access the "wdc project" folder inside wdc repository. 
+Access the public folder.
 
 test.html is our main file (login page), which is in public folder. That is where you start. 
 
